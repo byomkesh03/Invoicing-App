@@ -15,3 +15,6 @@ function createInvoice() {
     dueDate: dueDate,
     status: 'outstanding' // Default status is set to 'outstanding'
 };
+
+// Add the invoice to the invoices array
+invoices.push(invoice);
