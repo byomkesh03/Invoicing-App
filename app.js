@@ -70,3 +70,13 @@ function displayInvoices() {
      viewInvoicesSection.appendChild(invoiceContainer);
    });
  }
+
+ // Function to delete an invoice
+function deleteInvoice(index) {
+    // Remove the invoice from the invoices array
+    invoices.splice(index, 1);
+  
+    // Call the displayInvoices() function to update the UI
+    displayInvoices();
+  }
+  
