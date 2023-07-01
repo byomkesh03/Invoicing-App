@@ -1,0 +1,5 @@
+/* Reset default browser styles */
+body, h1, h2, section {
+    margin: 0;
+    padding: 0;
+  }
