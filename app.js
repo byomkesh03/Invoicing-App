@@ -18,3 +18,12 @@ function createInvoice() {
 
 // Add the invoice to the invoices array
 invoices.push(invoice);
+
+  // Clear the form fields
+  document.getElementById('line-items').value = '';
+  document.getElementById('notes').value = '';
+  document.getElementById('due-date').value = '';
+
+  // Call a function to display the newly created invoice
+  displayInvoices();
+}
