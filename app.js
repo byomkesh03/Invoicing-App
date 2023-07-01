@@ -8,4 +8,10 @@ function createInvoice() {
   const notes = document.getElementById('notes').value;
   const dueDate = document.getElementById('due-date').value;
 
+   // Create a new invoice object
+   const invoice = {
+    lineItems: lineItems,
+    notes: notes,
+    dueDate: dueDate,
+    status: 'outstanding' // Default status is set to 'outstanding'
 };
