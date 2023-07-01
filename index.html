@@ -15,6 +15,18 @@
         <section id="new-invoice">
           <h2>Create a new invoice</h2>
           <!-- Form to create a new invoice -->
+          <form id="create-invoice-form">
+            <label for="line-items">Line Items:</label>
+            <input type="text" id="line-items" required>
+    
+            <label for="notes">Notes:</label>
+            <textarea id="notes"></textarea>
+    
+            <label for="due-date">Due Date:</label>
+            <input type="date" id="due-date" required>
+    
+            <button type="submit">Create Invoice</button>
+          </form>
         </section>
     
         <section id="view-invoices">
