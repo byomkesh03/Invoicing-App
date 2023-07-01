@@ -33,3 +33,13 @@ main {
   #new-invoice h2 {
     margin-bottom: 10px;
   }
+
+  /* View Invoices section styles */
+#view-invoices {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+  }
+  
+  #view-invoices h2 {
+    margin-bottom: 10px;
+  }
