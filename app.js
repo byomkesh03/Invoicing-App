@@ -79,4 +79,20 @@ function deleteInvoice(index) {
     // Call the displayInvoices() function to update the UI
     displayInvoices();
   }
+
+  // Function to initialize the app
+function initApp() {
+  // Add event listener to the form submit button
+  const createInvoiceForm = document.getElementById('create-invoice-form');
+  createInvoiceForm.addEventListener('submit', (event) => {
+    event.preventDefault();
+    createInvoice();
+  });
+
+  // Call the displayInvoices() function to show existing invoices
+  displayInvoices();
+}
+
+// Call the initApp() function when the page is loaded
+window.onload = initApp;
   
