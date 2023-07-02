@@ -47,6 +47,18 @@ The Invoicing App can be customized according to your specific requirements:
 - Enhance the JavaScript code in the app.js file to add additional functionalities.
 - Integrate the app with a backend server to store and retrieve invoices.
 
+## Contributing
+
+If you want to contribute to this project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/my-feature`
+3. Make your changes and commit them: `git commit -m 'Add some feature'`
+4. Push the changes to your forked repository: `git push origin feature/my-feature`
+5. Open a pull request in the original repository.
+
+Your contributions are highly appreciated! Feel free to improve existing features, add new features, fix bugs, or suggest enhancements.
+
 ## Compatibility
 The Invoicing App is built using pure HTML, CSS, and JavaScript, and it is compatible with modern web browsers. It has been tested on Chrome, Firefox, and Safari.
 
