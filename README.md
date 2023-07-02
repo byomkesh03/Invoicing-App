@@ -5,6 +5,7 @@
  - [Introduction](#Introduction)
  - [Features](#features)
  - [Demo](#Demo)
+ - [Usage](#usage)
 
 ## Introduction
 
