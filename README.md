@@ -2,6 +2,7 @@
  Invoicing App Using Pure HTML CSS JavaScript
 
  ## Table of Contents
+ - [Introduction](#Introduction)
 
 ## Introduction
 
