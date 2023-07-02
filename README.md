@@ -8,6 +8,7 @@
  - [Usage](#usage)
  - [Installation](#installation)
  - [Customization](#customization)
+ - [Contributing](#contributing)
 
 ## Introduction
 
