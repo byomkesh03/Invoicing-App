@@ -20,7 +20,7 @@ The Invoicing App is a web application built using pure HTML, CSS, and JavaScrip
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/invoicing-app.git
+git clone https://github.com/byomkesh03/Invoicing-App.git
 
 ```
 2. Open the `index.html` file in your web browser.
