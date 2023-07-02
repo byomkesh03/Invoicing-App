@@ -9,6 +9,7 @@
  - [Installation](#installation)
  - [Customization](#customization)
  - [Contributing](#contributing)
+ - [Compatibility](#Compatibility)
  - [Acknowledgments](#Acknowledgments)
  - [Contact](#Contact)
  - [License](#license)
