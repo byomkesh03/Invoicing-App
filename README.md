@@ -35,6 +35,11 @@ git clone https://github.com/byomkesh03/Invoicing-App.git
 - Each invoice displays its line items, notes, due date, and status.
 - To delete an invoice, click the "Delete" button associated with that invoice.
 
+## Installation
+
+There are no specific installation steps required for this template. Simply clone the repository and open the `index.html` file in a web browser to run the template locally.
+
+
 ## Customization
 The Invoicing App can be customized according to your specific requirements:
 
