@@ -35,3 +35,10 @@ git clone https://github.com/your-username/invoicing-app.git
 - Each invoice displays its line items, notes, due date, and status.
 - To delete an invoice, click the "Delete" button associated with that invoice.
 
+## Customization
+The Invoicing App can be customized according to your specific requirements:
+
+Modify the CSS styles in the styles.css file to match your desired app design.
+Enhance the JavaScript code in the app.js file to add additional functionalities.
+Integrate the app with a backend server to store and retrieve invoices.
+
