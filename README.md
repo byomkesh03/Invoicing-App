@@ -10,6 +10,7 @@
  - [Customization](#customization)
  - [Contributing](#contributing)
  - [Acknowledgments](#Acknowledgments)
+ - [Contact](#Contact)
 
 ## Introduction
 
