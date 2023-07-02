@@ -23,13 +23,13 @@ The Invoicing App is a web application built using pure HTML, CSS, and JavaScrip
 git clone https://github.com/your-username/invoicing-app.git
 
 ```
-1. Open the `index.html` file in your web browser.
+2. Open the `index.html` file in your web browser.
 
-2. Create a new invoice:
+3. Create a new invoice:
 
 - Fill in the line items, notes, and due date in the provided form.
 - Click the "Create Invoice" button to add the invoice.
-3. View invoices:
+4. View invoices:
 
 - In the "View Invoices" section, you can see a list of existing invoices.
 - Each invoice displays its line items, notes, due date, and status.
