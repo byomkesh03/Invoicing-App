@@ -1,6 +1,8 @@
 # Invoicing-App
  Invoicing App Using Pure HTML CSS JavaScript
 
+ ## Table of Contents
+
 ## Introduction
 
 The Invoicing App is a web application built using pure HTML, CSS, and JavaScript. It allows you to create, view, and manage invoices for your business. The app provides features to add line items, notes, and due dates, and track the status of invoices. Although it does not send actual emails, it simulates the functionality of sending invoices via email.
