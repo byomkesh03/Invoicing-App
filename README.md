@@ -3,6 +3,7 @@
 
  ## Table of Contents
  - [Introduction](#Introduction)
+ - [Features](#features)
 
 ## Introduction
 
