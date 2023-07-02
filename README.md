@@ -7,6 +7,7 @@
  - [Demo](#Demo)
  - [Usage](#usage)
  - [Installation](#installation)
+ - [Customization](#customization)
 
 ## Introduction
 
