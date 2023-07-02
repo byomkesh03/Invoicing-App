@@ -11,6 +11,7 @@
  - [Contributing](#contributing)
  - [Acknowledgments](#Acknowledgments)
  - [Contact](#Contact)
+ - [License](#license)
 
 ## Introduction
 
