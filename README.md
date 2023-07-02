@@ -78,7 +78,7 @@ If you want to contribute to this project, follow these steps:
 Your contributions are highly appreciated! Feel free to improve existing features, add new features, fix bugs, or suggest enhancements.
 
 ## Compatibility
-The Invoicing App is built using pure HTML, CSS, and JavaScript, and it is compatible with modern web browsers. It has been tested on Chrome, Firefox, and Safari.
+The Invoicing App is built using pure HTML, CSS, and JavaScript, and it is compatible with modern web browsers. It has been tested on Chrome, Firefox, and Microsoft Edge.
 
 ## Acknowledgments
 
