@@ -6,6 +6,7 @@
  - [Features](#features)
  - [Demo](#Demo)
  - [Usage](#usage)
+ - [Installation](#installation)
 
 ## Introduction
 
