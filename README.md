@@ -47,7 +47,7 @@ The Invoicing App is built using pure HTML, CSS, and JavaScript, and it is compa
 
 ## Acknowledgments
 
-- Inspiration and guidance have been taken from the web development community For making this Multipage Responsive Blog Template Website.
+- Inspiration and guidance have been taken from the web development community For making this Invoicing App.
 
 ## Contact
 
