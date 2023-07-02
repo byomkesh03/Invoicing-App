@@ -53,3 +53,7 @@ The Invoicing App is built using pure HTML, CSS, and JavaScript, and it is compa
 
 If you have any questions, suggestions, or feedback, feel free to contact me at byomkeshmahato03@gmail.com.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
