@@ -42,3 +42,6 @@ The Invoicing App can be customized according to your specific requirements:
 - Enhance the JavaScript code in the app.js file to add additional functionalities.
 - Integrate the app with a backend server to store and retrieve invoices.
 
+## Compatibility
+The Invoicing App is built using pure HTML, CSS, and JavaScript, and it is compatible with modern web browsers. It has been tested on Chrome, Firefox, and Safari.
+
