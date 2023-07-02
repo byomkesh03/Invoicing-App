@@ -9,6 +9,7 @@
  - [Installation](#installation)
  - [Customization](#customization)
  - [Contributing](#contributing)
+ - [Acknowledgments](#Acknowledgments)
 
 ## Introduction
 
