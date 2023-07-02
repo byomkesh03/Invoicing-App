@@ -38,7 +38,7 @@ git clone https://github.com/byomkesh03/Invoicing-App.git
 ## Customization
 The Invoicing App can be customized according to your specific requirements:
 
-Modify the CSS styles in the styles.css file to match your desired app design.
-Enhance the JavaScript code in the app.js file to add additional functionalities.
-Integrate the app with a backend server to store and retrieve invoices.
+- Modify the CSS styles in the styles.css file to match your desired app design.
+- Enhance the JavaScript code in the app.js file to add additional functionalities.
+- Integrate the app with a backend server to store and retrieve invoices.
 
